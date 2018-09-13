@@ -9,5 +9,5 @@ else:
    print("{0} is Odd".format(num))
 
 11/8/2018 - first.py - print first programhello world
-print "Hello World"
+print "Hello world"
 
